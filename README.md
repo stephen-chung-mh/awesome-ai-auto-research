@@ -937,6 +937,7 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 | `OmniScientist` | [![arXiv](https://img.shields.io/badge/arXiv-2608.13558-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.13558)<br>OmniScientist: An Omni-Modal Omni-Discipline AI Scientist | arXiv '26 | - | - |
 | `ScientistTwo` | [![arXiv](https://img.shields.io/badge/arXiv-2609.19644-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.19644)<br>ScientistTwo: Pioneering the Human Knowledge Frontier with Autonomous AI | arXiv '26 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://scientist-two.github.io/) | - |
 | `YouRA` | [![arXiv](https://img.shields.io/badge/arXiv-2610.01097-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.01097)<br>YouRA: A Persistent-State Architecture for Evidence-Traceable Autonomous Research Agents | arXiv '26 | - | [![GitHub](https://img.shields.io/github/stars/PrayPrey/Your-Research-Agent)](https://github.com/PrayPrey/Your-Research-Agent) |
+| `Station (Open-Ended Research)` | [![arXiv](https://img.shields.io/badge/arXiv-2610.08927-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.08927)<br>Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station | arXiv 2026 | [Agent records](https://dualverse-ai.github.io/station-open-reseach_data/) | [![GitHub](https://img.shields.io/github/stars/dualverse-ai/station-open-reseach)](https://github.com/dualverse-ai/station-open-reseach) |
 ||
 
 ### Domain-Specific Systems
@@ -959,6 +960,7 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 | `BaT` | [![arXiv](https://img.shields.io/badge/arXiv-2608.16211-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.16211)<br>BaT: Towards Self-Evolving Medical Research Agent with Stage Rubrics | arXiv '26 | - | - |
 | `Agentic Sci. Community` | [![arXiv](https://img.shields.io/badge/arXiv-2607.12122-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.12122)<br>An Agentic AI Scientific Community for Automated Neural Operator Discovery | arXiv '26 | - | - |
 | `WARA` | [![arXiv](https://img.shields.io/badge/arXiv-2607.19822-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.19822)<br>WARA: A Closed-Loop Multi-Agent Framework for Wireless Optimization Autoresearch | ICCC '26 | - | - |
+| `Station (Mathematics)` | [![arXiv](https://img.shields.io/badge/arXiv-2608.23691-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.23691)<br>Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment | arXiv 2026 | [Project](https://dualverse.ai/station/) · [Agent records and proofs](https://dualverse-ai.github.io/station_data_v2/) | [![GitHub](https://img.shields.io/github/stars/dualverse-ai/station)](https://github.com/dualverse-ai/station) |
 ||
 
 ### Evolutionary & Self-Improving Systems
@@ -993,6 +995,7 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 ||
 | `Towards an AI co-scientist` | [![arXiv](https://img.shields.io/badge/arXiv-2502.18864-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2502.18864)<br>Towards an AI co-scientist | arXiv 2025 | - | - |
 | `PiFlow` | [![arXiv](https://img.shields.io/badge/arXiv-2505.15047-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.15047)<br>PiFlow: Principle-aware Scientific Discovery with Multi-Agent Collaboration | arXiv 2025 | - | - |
+| `Station` | [![arXiv](https://img.shields.io/badge/arXiv-2511.06309-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2511.06309)<br>The Station: An Open-World Environment for AI-Driven Discovery | arXiv 2025 | [Agent records](https://dualverse-ai.github.io/station_data/) | [![GitHub](https://img.shields.io/github/stars/dualverse-ai/station)](https://github.com/dualverse-ai/station) |
 | `LabClaw` | - | Web 2026 | - | - |
 | - | [![arXiv](https://img.shields.io/badge/arXiv-2600.00000-b31b1b?style=flat-square&logo=arxiv)](https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher)<br>OpenAI Is Throwing Everything into Building a Fully Automated Researcher | MIT TR 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher) | - |
 | `XScientist` | [![arXiv](https://img.shields.io/badge/arXiv-2607.12301-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.12301)<br>XScientist: A Git-Like Research Protocol for Long-Running Autonomous Scientific Discovery | arXiv '26 | - | - |
